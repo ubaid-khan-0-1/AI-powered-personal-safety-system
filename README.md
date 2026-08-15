@@ -2,7 +2,7 @@
 
 A complete Flask web application for women's safety with AI-powered features including VoiceGuard distress detection, NLP text analysis, and emergency alert generation.
 
----
+----
 
 ## 📁 Project Structure
 
@@ -98,7 +98,7 @@ http://localhost:5000
 | triggered_by  | TEXT    | Trigger source                |
 | created_at    | DATE    | Alert timestamp               |
 
----
+----
 
 ## ✨ Features
 
